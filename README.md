@@ -1,4 +1,8 @@
 # Apna-college-school-
+<br>
 This is the first Git Repository
-college change save the change 
+<br>
+College change saves change 
+<br>
+It is college life 
 
